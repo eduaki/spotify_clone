@@ -410,6 +410,7 @@ footer .music_viewer {
 }
 footer .music_viewer img {
   height: 42px;
+  width: 42px;
   border-radius: 4px;
 }
 footer .music_viewer h3 {
