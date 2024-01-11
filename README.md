@@ -6,7 +6,7 @@ To use this project you only need clone to your own folder using the command
 below:
 
 ```
-git clone https://github`com/eduaki/spotify_clone.git
+git clone https://github.com/eduaki/spotify_clone.git
 ```
 
 ### Album cover image
