@@ -290,6 +290,7 @@ main .welcome .buttons li:hover {
 }
 main .welcome .buttons li img {
   width: 50px;
+  height: 50px;
   border-radius: 6px 0px 0px 6px;
 }
 main .button-content {
@@ -361,6 +362,8 @@ main .button-content button:hover {
   color: var(--text-hover_main);
 }
 .playlist_block img {
+  min-width: 165px;
+  min-height: 165px;
   border-radius: 8px;
 }
 .playlist_block:hover {
